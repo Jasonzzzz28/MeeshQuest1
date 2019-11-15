@@ -81,6 +81,7 @@ There are no parameters.
 ```
 
 ## The resulting sample output:
+```
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <results>
   <success>
@@ -176,3 +177,4 @@ There are no parameters.
     </output>
   </success>
 </results>
+```
