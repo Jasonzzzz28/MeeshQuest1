@@ -55,3 +55,123 @@ This prints the current contents of the binary search tree in a
 hierarchical (preorder) manner, so that the XML structure matches the tree’s structure (see
 the example below). There are no parameters.
 <printBinarySearchTree/>
+
+## Print the SG Tree: 
+This prints the current contents of the SG tree in a hierarchical (preorder)
+manner, so that the XML structure matches the tree’s structure (see the example below).
+There are no parameters.
+<printSGTree/>
+
+# Sample Input/Output: 
+## Here is a sample input:
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part1in.xsd"
+ 	spatialWidth="512"
+ 	spatialHeight="512">
+ <createCity name="Chicago" x="81" y="47" radius="5"  color="black"/>
+ <createCity name="Atlanta" x="84" y="33" radius="5"  color="black"/>
+ <createCity name="Baltimore" y="39" x="76" radius="5" color="black"/>
+ <createCity name="Los_Angeles" x="118" y="33" radius="5"  color="black"/>
+ <createCity name="Miami" x="80" y="25" radius="5"  color="black"/>
+ <printBinarySearchTree/>
+ <printSGTree/>
+</commands>
+
+
+## The resulting sample output:
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Chicago"/>
+      <x value="81"/>
+      <y value="47"/>
+      <radius value="5"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Atlanta"/>
+      <x value="84"/>
+      <y value="33"/>
+      <radius value="5"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Baltimore"/>
+      <x value="76"/>
+      <y value="39"/>
+      <radius value="5"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Los_Angeles"/>
+      <x value="118"/>
+      <y value="33"/>
+      <radius value="5"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Miami"/>
+      <x value="80"/>
+      <y value="25"/>
+      <radius value="5"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="printBinarySearchTree"/>
+    <parameters/>
+    <output>
+      <binarysearchtree>
+        <node name="Chicago" x="81" y="47">
+          <node name="Atlanta" x="84" y="33">
+            <node name="Baltimore" x="76" y="39"/>
+          </node>
+          <node name="Los_Angeles" x="118" y="33">
+            <node name="Miami" x="80" y="25"/>
+          </node>
+        </node>
+      </binarysearchtree>
+    </output>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="Chicago" x="81" y="47">
+          <internal name="Baltimore" x="76" y="39">
+            <external name="Baltimore" x="76" y="39"/>
+            <internal name="Miami" x="80" y="25">
+              <external name="Miami" x="80" y="25"/>
+              <external name="Chicago" x="81" y="47"/>
+            </internal>
+          </internal>
+          <internal name="Atlanta" x="84" y="33">
+            <external name="Atlanta" x="84" y="33"/>
+            <external name="Los_Angeles" x="118" y="33"/>
+          </internal>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+</results>
