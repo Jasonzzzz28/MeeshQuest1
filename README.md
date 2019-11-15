@@ -64,7 +64,7 @@ There are no parameters.
 
 # Sample Input/Output: 
 ## Here is a sample input:
-'''<commands
+'''xml <commands
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="part1in.xsd"
  	spatialWidth="512"
