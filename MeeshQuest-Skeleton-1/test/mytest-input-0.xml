@@ -1,0 +1,10 @@
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part1in.xsd"
+ 	spatialWidth="512"
+ 	spatialHeight="512">
+ <createCity name="Baltimore" y="39" x="76" radius="10" color="green"/>
+ <createCity name="Chicago" x="87" y="41" radius="15" color="blue"/>
+ <printBinarySearchTree/>
+ <printSGTree/>
+</commands>

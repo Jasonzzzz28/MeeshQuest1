@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Edinburgh"/>
+      <x value="100"/>
+      <y value="500"/>
+      <radius value="0"/>
+      <color value="red"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Lisbon"/>
+      <x value="100"/>
+      <y value="100"/>
+      <radius value="0"/>
+      <color value="orange"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Varna"/>
+      <x value="100"/>
+      <y value="800"/>
+      <radius value="0"/>
+      <color value="red"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="London"/>
+      <x value="150"/>
+      <y value="250"/>
+      <radius value="0"/>
+      <color value="yellow"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Prague"/>
+      <x value="150"/>
+      <y value="700"/>
+      <radius value="0"/>
+      <color value="green"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="printBinarySearchTree"/>
+    <parameters/>
+    <output>
+      <binarysearchtree>
+        <node name="Edinburgh" x="100" y="500">
+          <node name="Lisbon" x="100" y="100">
+            <node name="Varna" x="100" y="800">
+              <node name="London" x="150" y="250">
+                <node name="Prague" x="150" y="700"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </binarysearchtree>
+    </output>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="Varna" x="100" y="800">
+          <internal name="Edinburgh" x="100" y="500">
+            <internal name="Lisbon" x="100" y="100">
+              <external name="Lisbon" x="100" y="100"/>
+              <external name="Edinburgh" x="100" y="500"/>
+            </internal>
+            <external name="Varna" x="100" y="800"/>
+          </internal>
+          <internal name="London" x="150" y="250">
+            <external name="London" x="150" y="250"/>
+            <external name="Prague" x="150" y="700"/>
+          </internal>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Madrid"/>
+      <x value="200"/>
+      <y value="100"/>
+      <radius value="0"/>
+      <color value="blue"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Paris"/>
+      <x value="250"/>
+      <y value="300"/>
+      <radius value="0"/>
+      <color value="purple"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Copenhagen"/>
+      <x value="250"/>
+      <y value="500"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Marseilles"/>
+      <x value="350"/>
+      <y value="100"/>
+      <radius value="0"/>
+      <color value="red"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Vienna"/>
+      <x value="350"/>
+      <y value="700"/>
+      <radius value="0"/>
+      <color value="orange"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Amsterdam"/>
+      <x value="400"/>
+      <y value="300"/>
+      <radius value="0"/>
+      <color value="yellow"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Munich"/>
+      <x value="400"/>
+      <y value="200"/>
+      <radius value="0"/>
+      <color value="green"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Milan"/>
+      <x value="500"/>
+      <y value="50"/>
+      <radius value="0"/>
+      <color value="blue"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Rome"/>
+      <x value="500"/>
+      <y value="450"/>
+      <radius value="0"/>
+      <color value="purple"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Naples"/>
+      <x value="450"/>
+      <y value="650"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Geneva"/>
+      <x value="300"/>
+      <y value="200"/>
+      <radius value="0"/>
+      <color value="orange"/>
+    </parameters>
+    <output/>
+  </success>
+  <error type="duplicateCityCoordinates">
+    <command name="createCity"/>
+    <parameters>
+      <name value="Geneva_Duplicate"/>
+      <x value="300"/>
+      <y value="200"/>
+      <radius value="1"/>
+      <color value="black"/>
+    </parameters>
+  </error>
+  <success>
+    <command name="printBinarySearchTree"/>
+    <parameters/>
+    <output>
+      <binarysearchtree>
+        <node name="Edinburgh" x="100" y="500">
+          <node name="Copenhagen" x="250" y="500">
+            <node name="Amsterdam" x="400" y="300"/>
+          </node>
+          <node name="Lisbon" x="100" y="100">
+            <node name="Geneva" x="300" y="200"/>
+            <node name="Varna" x="100" y="800">
+              <node name="London" x="150" y="250">
+                <node name="Prague" x="150" y="700">
+                  <node name="Madrid" x="200" y="100">
+                    <node name="Paris" x="250" y="300">
+                      <node name="Marseilles" x="350" y="100">
+                        <node name="Munich" x="400" y="200">
+                          <node name="Milan" x="500" y="50"/>
+                          <node name="Naples" x="450" y="650"/>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                  <node name="Rome" x="500" y="450"/>
+                </node>
+              </node>
+              <node name="Vienna" x="350" y="700"/>
+            </node>
+          </node>
+        </node>
+      </binarysearchtree>
+    </output>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="Paris" x="250" y="300">
+          <internal name="London" x="150" y="250">
+            <internal name="Edinburgh" x="100" y="500">
+              <internal name="Lisbon" x="100" y="100">
+                <external name="Lisbon" x="100" y="100"/>
+                <external name="Edinburgh" x="100" y="500"/>
+              </internal>
+              <internal name="Varna" x="100" y="800">
+                <external name="Varna" x="100" y="800"/>
+                <external name="London" x="150" y="250"/>
+              </internal>
+            </internal>
+            <internal name="Madrid" x="200" y="100">
+              <internal name="Prague" x="150" y="700">
+                <external name="Prague" x="150" y="700"/>
+                <external name="Madrid" x="200" y="100"/>
+              </internal>
+              <external name="Paris" x="250" y="300"/>
+            </internal>
+          </internal>
+          <internal name="Vienna" x="350" y="700">
+            <internal name="Marseilles" x="350" y="100">
+              <internal name="Copenhagen" x="250" y="500">
+                <external name="Copenhagen" x="250" y="500"/>
+                <internal name="Geneva" x="300" y="200">
+                  <external name="Geneva" x="300" y="200"/>
+                  <external name="Marseilles" x="350" y="100"/>
+                </internal>
+              </internal>
+              <external name="Vienna" x="350" y="700"/>
+            </internal>
+            <internal name="Amsterdam" x="400" y="300">
+              <internal name="Munich" x="400" y="200">
+                <external name="Munich" x="400" y="200"/>
+                <external name="Amsterdam" x="400" y="300"/>
+              </internal>
+              <internal name="Milan" x="500" y="50">
+                <internal name="Naples" x="450" y="650">
+                  <external name="Naples" x="450" y="650"/>
+                  <external name="Milan" x="500" y="50"/>
+                </internal>
+                <external name="Rome" x="500" y="450"/>
+              </internal>
+            </internal>
+          </internal>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+  <success>
+    <command name="deleteCity"/>
+    <parameters>
+      <name value="London"/>
+    </parameters>
+    <output>
+      <cityDeleted color="yellow" name="London" radius="0" x="150" y="250"/>
+    </output>
+  </success>
+  <success>
+    <command name="deleteCity"/>
+    <parameters>
+      <name value="Marseilles"/>
+    </parameters>
+    <output>
+      <cityDeleted color="red" name="Marseilles" radius="0" x="350" y="100"/>
+    </output>
+  </success>
+  <success>
+    <command name="deleteCity"/>
+    <parameters>
+      <name value="Amsterdam"/>
+    </parameters>
+    <output>
+      <cityDeleted color="yellow" name="Amsterdam" radius="0" x="400" y="300"/>
+    </output>
+  </success>
+  <success>
+    <command name="deleteCity"/>
+    <parameters>
+      <name value="Rome"/>
+    </parameters>
+    <output>
+      <cityDeleted color="purple" name="Rome" radius="0" x="500" y="450"/>
+    </output>
+  </success>
+  <error type="cityDoesNotExist">
+    <command name="deleteCity"/>
+    <parameters>
+      <name value="London"/>
+    </parameters>
+  </error>
+  <success>
+    <command name="printBinarySearchTree"/>
+    <parameters/>
+    <output>
+      <binarysearchtree>
+        <node name="Edinburgh" x="100" y="500">
+          <node name="Copenhagen" x="250" y="500"/>
+          <node name="Lisbon" x="100" y="100">
+            <node name="Geneva" x="300" y="200"/>
+            <node name="Varna" x="100" y="800">
+              <node name="Prague" x="150" y="700">
+                <node name="Madrid" x="200" y="100">
+                  <node name="Paris" x="250" y="300">
+                    <node name="Munich" x="400" y="200">
+                      <node name="Milan" x="500" y="50"/>
+                      <node name="Naples" x="450" y="650"/>
+                    </node>
+                  </node>
+                </node>
+              </node>
+              <node name="Vienna" x="350" y="700"/>
+            </node>
+          </node>
+        </node>
+      </binarysearchtree>
+    </output>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="Paris" x="250" y="300">
+          <internal name="London" x="150" y="250">
+            <internal name="Edinburgh" x="100" y="500">
+              <internal name="Lisbon" x="100" y="100">
+                <external name="Lisbon" x="100" y="100"/>
+                <external name="Edinburgh" x="100" y="500"/>
+              </internal>
+              <external name="Varna" x="100" y="800"/>
+            </internal>
+            <internal name="Madrid" x="200" y="100">
+              <internal name="Prague" x="150" y="700">
+                <external name="Prague" x="150" y="700"/>
+                <external name="Madrid" x="200" y="100"/>
+              </internal>
+              <external name="Paris" x="250" y="300"/>
+            </internal>
+          </internal>
+          <internal name="Vienna" x="350" y="700">
+            <internal name="Marseilles" x="350" y="100">
+              <internal name="Copenhagen" x="250" y="500">
+                <external name="Copenhagen" x="250" y="500"/>
+                <external name="Geneva" x="300" y="200"/>
+              </internal>
+              <external name="Vienna" x="350" y="700"/>
+            </internal>
+            <internal name="Amsterdam" x="400" y="300">
+              <external name="Munich" x="400" y="200"/>
+              <internal name="Naples" x="450" y="650">
+                <external name="Naples" x="450" y="650"/>
+                <external name="Milan" x="500" y="50"/>
+              </internal>
+            </internal>
+          </internal>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+  <success>
+    <command name="listCities"/>
+    <parameters>
+      <sortBy value="name"/>
+    </parameters>
+    <output>
+      <cityList>
+        <city color="black" name="Copenhagen" radius="0" x="250" y="500"/>
+        <city color="red" name="Edinburgh" radius="0" x="100" y="500"/>
+        <city color="orange" name="Geneva" radius="0" x="300" y="200"/>
+        <city color="orange" name="Lisbon" radius="0" x="100" y="100"/>
+        <city color="blue" name="Madrid" radius="0" x="200" y="100"/>
+        <city color="blue" name="Milan" radius="0" x="500" y="50"/>
+        <city color="green" name="Munich" radius="0" x="400" y="200"/>
+        <city color="black" name="Naples" radius="0" x="450" y="650"/>
+        <city color="purple" name="Paris" radius="0" x="250" y="300"/>
+        <city color="green" name="Prague" radius="0" x="150" y="700"/>
+        <city color="red" name="Varna" radius="0" x="100" y="800"/>
+        <city color="orange" name="Vienna" radius="0" x="350" y="700"/>
+      </cityList>
+    </output>
+  </success>
+  <success>
+    <command name="clearAll"/>
+    <parameters/>
+    <output/>
+  </success>
+  <error type="mapIsEmpty">
+    <command name="printSGTree"/>
+    <parameters/>
+  </error>
+  <error type="mapIsEmpty">
+    <command name="printBinarySearchTree"/>
+    <parameters/>
+  </error>
+  <error type="noCitiesToList">
+    <command name="listCities"/>
+    <parameters>
+      <sortBy value="coordinate"/>
+    </parameters>
+  </error>
+</results>

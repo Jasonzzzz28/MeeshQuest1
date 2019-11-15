@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+  <error type="mapIsEmpty">
+    <command name="printSGTree"/>
+    <parameters/>
+  </error>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x06"/>
+      <x value="6"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x10"/>
+      <x value="10"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x12"/>
+      <x value="12"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x16"/>
+      <x value="16"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="x06" x="6" y="0">
+          <external name="x06" x="6" y="0"/>
+          <internal name="x10" x="10" y="0">
+            <external name="x10" x="10" y="0"/>
+            <internal name="x12" x="12" y="0">
+              <external name="x12" x="12" y="0"/>
+              <external name="x16" x="16" y="0"/>
+            </internal>
+          </internal>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x18"/>
+      <x value="18"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="x12" x="12" y="0">
+          <internal name="x10" x="10" y="0">
+            <internal name="x06" x="6" y="0">
+              <external name="x06" x="6" y="0"/>
+              <external name="x10" x="10" y="0"/>
+            </internal>
+            <external name="x12" x="12" y="0"/>
+          </internal>
+          <internal name="x16" x="16" y="0">
+            <external name="x16" x="16" y="0"/>
+            <external name="x18" x="18" y="0"/>
+          </internal>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x20"/>
+      <x value="20"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x04"/>
+      <x value="4"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x14"/>
+      <x value="14"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x02"/>
+      <x value="2"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x08"/>
+      <x value="8"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="x12" x="12" y="0">
+          <internal name="x10" x="10" y="0">
+            <internal name="x06" x="6" y="0">
+              <internal name="x04" x="4" y="0">
+                <internal name="x02" x="2" y="0">
+                  <external name="x02" x="2" y="0"/>
+                  <external name="x04" x="4" y="0"/>
+                </internal>
+                <external name="x06" x="6" y="0"/>
+              </internal>
+              <internal name="x08" x="8" y="0">
+                <external name="x08" x="8" y="0"/>
+                <external name="x10" x="10" y="0"/>
+              </internal>
+            </internal>
+            <external name="x12" x="12" y="0"/>
+          </internal>
+          <internal name="x16" x="16" y="0">
+            <internal name="x14" x="14" y="0">
+              <external name="x14" x="14" y="0"/>
+              <external name="x16" x="16" y="0"/>
+            </internal>
+            <internal name="x18" x="18" y="0">
+              <external name="x18" x="18" y="0"/>
+              <external name="x20" x="20" y="0"/>
+            </internal>
+          </internal>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x00"/>
+      <x value="0"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="x12" x="12" y="0">
+          <internal name="x06" x="6" y="0">
+            <internal name="x02" x="2" y="0">
+              <internal name="x00" x="0" y="0">
+                <external name="x00" x="0" y="0"/>
+                <external name="x02" x="2" y="0"/>
+              </internal>
+              <internal name="x04" x="4" y="0">
+                <external name="x04" x="4" y="0"/>
+                <external name="x06" x="6" y="0"/>
+              </internal>
+            </internal>
+            <internal name="x10" x="10" y="0">
+              <internal name="x08" x="8" y="0">
+                <external name="x08" x="8" y="0"/>
+                <external name="x10" x="10" y="0"/>
+              </internal>
+              <external name="x12" x="12" y="0"/>
+            </internal>
+          </internal>
+          <internal name="x16" x="16" y="0">
+            <internal name="x14" x="14" y="0">
+              <external name="x14" x="14" y="0"/>
+              <external name="x16" x="16" y="0"/>
+            </internal>
+            <internal name="x18" x="18" y="0">
+              <external name="x18" x="18" y="0"/>
+              <external name="x20" x="20" y="0"/>
+            </internal>
+          </internal>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+  <success>
+    <command name="printBinarySearchTree"/>
+    <parameters/>
+    <output>
+      <binarysearchtree>
+        <node name="x06" x="6" y="0">
+          <node name="x04" x="4" y="0">
+            <node name="x02" x="2" y="0">
+              <node name="x00" x="0" y="0"/>
+            </node>
+          </node>
+          <node name="x10" x="10" y="0">
+            <node name="x08" x="8" y="0"/>
+            <node name="x12" x="12" y="0">
+              <node name="x16" x="16" y="0">
+                <node name="x14" x="14" y="0"/>
+                <node name="x18" x="18" y="0">
+                  <node name="x20" x="20" y="0"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </binarysearchtree>
+    </output>
+  </success>
+</results>

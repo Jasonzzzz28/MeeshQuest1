@@ -1,0 +1,296 @@
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part1in.xsd"
+	spatialWidth="1024" spatialHeight="1024">
+ <printBinarySearchTree/>
+ <createCity name="x21" x="21" y="0" radius="0" color="black"/>
+ <printBinarySearchTree/>
+ <createCity name="x64" x="64" y="0" radius="0" color="black"/>
+ <printBinarySearchTree/>
+ <createCity name="x06" x="06" y="0" radius="0" color="black"/>
+ <printBinarySearchTree/>
+ <createCity name="x60" x="60" y="0" radius="0" color="black"/>
+ <createCity name="x90" x="90" y="0" radius="0" color="black"/>
+ <createCity name="x08" x="08" y="0" radius="0" color="black"/>
+ <createCity name="x22" x="22" y="0" radius="0" color="black"/>
+ <createCity name="x63" x="63" y="0" radius="0" color="black"/>
+ <createCity name="x19" x="19" y="0" radius="0" color="black"/>
+ <printBinarySearchTree/>
+ <createCity name="x16" x="16" y="0" radius="0" color="black"/>
+ <createCity name="x02" x="02" y="0" radius="0" color="black"/>
+ <createCity name="x96" x="96" y="0" radius="0" color="black"/>
+ <createCity name="x09" x="09" y="0" radius="0" color="black"/>
+ <createCity name="x87" x="87" y="0" radius="0" color="black"/>
+ <createCity name="x89" x="89" y="0" radius="0" color="black"/>
+ <createCity name="x58" x="58" y="0" radius="0" color="black"/>
+ <createCity name="x23" x="23" y="0" radius="0" color="black"/>
+ <createCity name="x55" x="55" y="0" radius="0" color="black"/>
+ <createCity name="x65" x="65" y="0" radius="0" color="black"/>
+ <createCity name="x97" x="97" y="0" radius="0" color="black"/>
+ <createCity name="x03" x="03" y="0" radius="0" color="black"/>
+ <createCity name="x30" x="30" y="0" radius="0" color="black"/>
+ <createCity name="x40" x="40" y="0" radius="0" color="black"/>
+ <createCity name="x79" x="79" y="0" radius="0" color="black"/>
+ <createCity name="x77" x="77" y="0" radius="0" color="black"/>
+ <createCity name="x39" x="39" y="0" radius="0" color="black"/>
+ <createCity name="x47" x="47" y="0" radius="0" color="black"/>
+ <createCity name="x46" x="46" y="0" radius="0" color="black"/>
+ <createCity name="x14" x="14" y="0" radius="0" color="black"/>
+ <createCity name="x42" x="42" y="0" radius="0" color="black"/>
+ <createCity name="x05" x="05" y="0" radius="0" color="black"/>
+ <createCity name="x86" x="86" y="0" radius="0" color="black"/>
+ <createCity name="x27" x="27" y="0" radius="0" color="black"/>
+ <createCity name="x67" x="67" y="0" radius="0" color="black"/>
+ <createCity name="x28" x="28" y="0" radius="0" color="black"/>
+ <createCity name="x61" x="61" y="0" radius="0" color="black"/>
+ <createCity name="x91" x="91" y="0" radius="0" color="black"/>
+ <createCity name="x72" x="72" y="0" radius="0" color="black"/>
+ <createCity name="x74" x="74" y="0" radius="0" color="black"/>
+ <createCity name="x51" x="51" y="0" radius="0" color="black"/>
+ <createCity name="x37" x="37" y="0" radius="0" color="black"/>
+ <createCity name="x01" x="01" y="0" radius="0" color="black"/>
+ <createCity name="x00" x="00" y="0" radius="0" color="black"/>
+ <createCity name="x32" x="32" y="0" radius="0" color="black"/>
+ <createCity name="x33" x="33" y="0" radius="0" color="black"/>
+ <createCity name="x04" x="04" y="0" radius="0" color="black"/>
+ <createCity name="x68" x="68" y="0" radius="0" color="black"/>
+ <createCity name="x44" x="44" y="0" radius="0" color="black"/>
+ <createCity name="x73" x="73" y="0" radius="0" color="black"/>
+ <createCity name="x17" x="17" y="0" radius="0" color="black"/>
+ <createCity name="x85" x="85" y="0" radius="0" color="black"/>
+ <createCity name="x76" x="76" y="0" radius="0" color="black"/>
+ <createCity name="x10" x="10" y="0" radius="0" color="black"/>
+ <createCity name="x92" x="92" y="0" radius="0" color="black"/>
+ <createCity name="x70" x="70" y="0" radius="0" color="black"/>
+ <createCity name="x26" x="26" y="0" radius="0" color="black"/>
+ <createCity name="x50" x="50" y="0" radius="0" color="black"/>
+ <createCity name="x13" x="13" y="0" radius="0" color="black"/>
+ <createCity name="x43" x="43" y="0" radius="0" color="black"/>
+ <createCity name="x38" x="38" y="0" radius="0" color="black"/>
+ <createCity name="x99" x="99" y="0" radius="0" color="black"/>
+ <createCity name="x45" x="45" y="0" radius="0" color="black"/>
+ <createCity name="x54" x="54" y="0" radius="0" color="black"/>
+ <createCity name="x94" x="94" y="0" radius="0" color="black"/>
+ <createCity name="x15" x="15" y="0" radius="0" color="black"/>
+ <createCity name="x78" x="78" y="0" radius="0" color="black"/>
+ <createCity name="x12" x="12" y="0" radius="0" color="black"/>
+ <createCity name="x34" x="34" y="0" radius="0" color="black"/>
+ <createCity name="x57" x="57" y="0" radius="0" color="black"/>
+ <createCity name="x53" x="53" y="0" radius="0" color="black"/>
+ <createCity name="x84" x="84" y="0" radius="0" color="black"/>
+ <createCity name="x25" x="25" y="0" radius="0" color="black"/>
+ <createCity name="x18" x="18" y="0" radius="0" color="black"/>
+ <createCity name="x69" x="69" y="0" radius="0" color="black"/>
+ <createCity name="x35" x="35" y="0" radius="0" color="black"/>
+ <createCity name="x80" x="80" y="0" radius="0" color="black"/>
+ <createCity name="x59" x="59" y="0" radius="0" color="black"/>
+ <createCity name="x11" x="11" y="0" radius="0" color="black"/>
+ <createCity name="x07" x="07" y="0" radius="0" color="black"/>
+ <createCity name="x29" x="29" y="0" radius="0" color="black"/>
+ <createCity name="x36" x="36" y="0" radius="0" color="black"/>
+ <createCity name="x81" x="81" y="0" radius="0" color="black"/>
+ <createCity name="x52" x="52" y="0" radius="0" color="black"/>
+ <createCity name="x66" x="66" y="0" radius="0" color="black"/>
+ <createCity name="x71" x="71" y="0" radius="0" color="black"/>
+ <createCity name="x83" x="83" y="0" radius="0" color="black"/>
+ <createCity name="x56" x="56" y="0" radius="0" color="black"/>
+ <printBinarySearchTree/>
+ <createCity name="x82" x="82" y="0" radius="0" color="black"/>
+ <createCity name="x95" x="95" y="0" radius="0" color="black"/>
+ <createCity name="x75" x="75" y="0" radius="0" color="black"/>
+ <createCity name="x62" x="62" y="0" radius="0" color="black"/>
+ <createCity name="x24" x="24" y="0" radius="0" color="black"/>
+ <createCity name="x20" x="20" y="0" radius="0" color="black"/>
+ <createCity name="x41" x="41" y="0" radius="0" color="black"/>
+ <createCity name="x88" x="88" y="0" radius="0" color="black"/>
+ <createCity name="x93" x="93" y="0" radius="0" color="black"/>
+ <createCity name="x31" x="31" y="0" radius="0" color="black"/>
+ <createCity name="x98" x="98" y="0" radius="0" color="black"/>
+ <createCity name="x49" x="49" y="0" radius="0" color="black"/>
+ <createCity name="x48" x="48" y="0" radius="0" color="black"/>
+ <deleteCity name="x25"/>
+ <deleteCity name="x18"/>
+ <deleteCity name="x69"/>
+ <deleteCity name="x66"/>
+ <deleteCity name="x71"/>
+ <deleteCity name="x83"/>
+ <deleteCity name="x56"/>
+ <deleteCity name="x82"/>
+ <deleteCity name="x95"/>
+ <deleteCity name="x93"/>
+ <deleteCity name="x31"/>
+ <deleteCity name="x98"/>
+ <deleteCity name="x49"/>
+ <deleteCity name="x48"/>
+ <printBinarySearchTree/>
+ <deleteCity name="x35"/>
+ <deleteCity name="x80"/>
+ <deleteCity name="x59"/>
+ <deleteCity name="x11"/>
+ <deleteCity name="x07"/>
+ <deleteCity name="x29"/>
+ <deleteCity name="x36"/>
+ <deleteCity name="x81"/>
+  <deleteCity name="x75"/>
+ <deleteCity name="x62"/>
+ <createCity name="x66" x="66" y="0" radius="0" color="black"/>
+ <createCity name="x71" x="71" y="0" radius="0" color="black"/>
+ <createCity name="x83" x="83" y="0" radius="0" color="black"/>
+ <createCity name="x56" x="56" y="0" radius="0" color="black"/>
+ <createCity name="x82" x="82" y="0" radius="0" color="black"/>
+ <createCity name="x95" x="95" y="0" radius="0" color="black"/>
+ <createCity name="x75" x="75" y="0" radius="0" color="black"/>
+ <createCity name="x62" x="62" y="0" radius="0" color="black"/>
+ <createCity name="x24" x="24" y="0" radius="0" color="black"/>
+ <createCity name="x20" x="20" y="0" radius="0" color="black"/>
+ <createCity name="x41" x="41" y="0" radius="0" color="black"/>
+ <createCity name="x88" x="88" y="0" radius="0" color="black"/>
+ <createCity name="x93" x="93" y="0" radius="0" color="black"/>
+ <createCity name="x31" x="31" y="0" radius="0" color="black"/>
+ <createCity name="x98" x="98" y="0" radius="0" color="black"/>
+ <createCity name="x49" x="49" y="0" radius="0" color="black"/>
+ <createCity name="x48" x="48" y="0" radius="0" color="black"/>
+ <deleteCity name="x82"/>
+ <deleteCity name="x95"/>
+ <deleteCity name="x93"/>
+ <deleteCity name="x31"/>
+ <deleteCity name="x98"/>
+ <deleteCity name="x49"/>
+ <deleteCity name="x48"/>
+ <deleteCity name="x35"/>
+ <deleteCity name="x80"/>
+ <deleteCity name="x24"/>
+  <createCity name="x45" x="45" y="0" radius="0" color="black"/>
+ <createCity name="x54" x="54" y="0" radius="0" color="black"/>
+ <createCity name="x94" x="94" y="0" radius="0" color="black"/>
+ <createCity name="x15" x="15" y="0" radius="0" color="black"/>
+ <createCity name="x78" x="78" y="0" radius="0" color="black"/>
+ <createCity name="x12" x="12" y="0" radius="0" color="black"/>
+ <createCity name="x34" x="34" y="0" radius="0" color="black"/>
+ <createCity name="x57" x="57" y="0" radius="0" color="black"/>
+ <printBinarySearchTree/>
+ <createCity name="x53" x="53" y="0" radius="0" color="black"/>
+ <createCity name="x84" x="84" y="0" radius="0" color="black"/>
+ <createCity name="x25" x="25" y="0" radius="0" color="black"/>
+ <createCity name="x18" x="18" y="0" radius="0" color="black"/>
+ <createCity name="x69" x="69" y="0" radius="0" color="black"/>
+ <createCity name="x35" x="35" y="0" radius="0" color="black"/>
+ <createCity name="x80" x="80" y="0" radius="0" color="black"/>
+ <printBinarySearchTree/>
+ <createCity name="x59" x="59" y="0" radius="0" color="black"/>
+ <createCity name="x11" x="11" y="0" radius="0" color="black"/>
+ <createCity name="x07" x="07" y="0" radius="0" color="black"/>
+ <createCity name="x29" x="29" y="0" radius="0" color="black"/>
+ <createCity name="x36" x="36" y="0" radius="0" color="black"/>
+ <createCity name="x81" x="81" y="0" radius="0" color="black"/>
+ <createCity name="x52" x="52" y="0" radius="0" color="black"/>
+ <createCity name="x66" x="66" y="0" radius="0" color="black"/>
+ <createCity name="x71" x="71" y="0" radius="0" color="black"/>
+ <createCity name="x83" x="83" y="0" radius="0" color="black"/>
+ <deleteCity name="x20"/>
+ <deleteCity name="x41"/>
+ <deleteCity name="x88"/>
+ <deleteCity name="x52"/>
+ <createCity name="z21" x="21" y="2" radius="2" color="black"/>
+ <createCity name="z64" x="64" y="2" radius="2" color="black"/>
+ <createCity name="z06" x="06" y="2" radius="2" color="black"/>
+ <createCity name="z60" x="60" y="2" radius="2" color="black"/>
+ <createCity name="z90" x="90" y="2" radius="2" color="black"/>
+ <createCity name="z08" x="08" y="2" radius="2" color="black"/>
+ <createCity name="z22" x="22" y="2" radius="2" color="black"/>
+ <createCity name="z63" x="63" y="2" radius="2" color="black"/>
+ <createCity name="z19" x="19" y="2" radius="2" color="black"/>
+ <createCity name="z16" x="16" y="2" radius="2" color="black"/>
+ <createCity name="z02" x="02" y="2" radius="2" color="black"/>
+ <createCity name="z96" x="96" y="2" radius="2" color="black"/>
+ <createCity name="z09" x="09" y="2" radius="2" color="black"/>
+ <createCity name="z87" x="87" y="2" radius="2" color="black"/>
+ <createCity name="z89" x="89" y="2" radius="2" color="black"/>
+ <createCity name="z58" x="58" y="2" radius="2" color="black"/>
+ <createCity name="z23" x="23" y="2" radius="2" color="black"/>
+ <createCity name="z55" x="55" y="2" radius="2" color="black"/>
+ <createCity name="z65" x="65" y="2" radius="2" color="black"/>
+ <createCity name="z97" x="97" y="2" radius="2" color="black"/>
+ <createCity name="z03" x="03" y="2" radius="2" color="black"/>
+ <createCity name="z30" x="30" y="2" radius="2" color="black"/>
+ <createCity name="z40" x="40" y="2" radius="2" color="black"/>
+ <createCity name="z79" x="79" y="2" radius="2" color="black"/>
+ <createCity name="z77" x="77" y="2" radius="2" color="black"/>
+ <createCity name="z39" x="39" y="2" radius="2" color="black"/>
+ <createCity name="z47" x="47" y="2" radius="2" color="black"/>
+ <createCity name="z46" x="46" y="2" radius="2" color="black"/>
+ <createCity name="z14" x="14" y="2" radius="2" color="black"/>
+ <createCity name="z42" x="42" y="2" radius="2" color="black"/>
+ <createCity name="z05" x="05" y="2" radius="2" color="black"/>
+ <createCity name="z86" x="86" y="2" radius="2" color="black"/>
+ <createCity name="z27" x="27" y="2" radius="2" color="black"/>
+ <createCity name="z67" x="67" y="2" radius="2" color="black"/>
+ <createCity name="z28" x="28" y="2" radius="2" color="black"/>
+ <createCity name="z61" x="61" y="2" radius="2" color="black"/>
+ <createCity name="z91" x="91" y="2" radius="2" color="black"/>
+ <createCity name="z72" x="72" y="2" radius="2" color="black"/>
+ <createCity name="z74" x="74" y="2" radius="2" color="black"/>
+ <createCity name="z51" x="51" y="2" radius="2" color="black"/>
+ <createCity name="z37" x="37" y="2" radius="2" color="black"/>
+ <createCity name="z01" x="01" y="2" radius="2" color="black"/>
+ <createCity name="z00" x="00" y="2" radius="2" color="black"/>
+ <createCity name="z32" x="32" y="2" radius="2" color="black"/>
+ <createCity name="z33" x="33" y="2" radius="2" color="black"/>
+ <createCity name="z04" x="04" y="2" radius="2" color="black"/>
+ <createCity name="z68" x="68" y="2" radius="2" color="black"/>
+ <createCity name="z44" x="44" y="2" radius="2" color="black"/>
+ <createCity name="z73" x="73" y="2" radius="2" color="black"/>
+ <createCity name="z17" x="17" y="2" radius="2" color="black"/>
+ <createCity name="z85" x="85" y="2" radius="2" color="black"/>
+ <createCity name="z76" x="76" y="2" radius="2" color="black"/>
+ <createCity name="z10" x="10" y="2" radius="2" color="black"/>
+ <createCity name="z92" x="92" y="2" radius="2" color="black"/>
+ <createCity name="z70" x="70" y="2" radius="2" color="black"/>
+ <createCity name="z26" x="26" y="2" radius="2" color="black"/>
+ <createCity name="z50" x="50" y="2" radius="2" color="black"/>
+ <createCity name="z13" x="13" y="2" radius="2" color="black"/>
+ <createCity name="z43" x="43" y="2" radius="2" color="black"/>
+ <createCity name="z38" x="38" y="2" radius="2" color="black"/>
+ <createCity name="z99" x="99" y="2" radius="2" color="black"/>
+ <createCity name="z45" x="45" y="2" radius="2" color="black"/>
+ <createCity name="z54" x="54" y="2" radius="2" color="black"/>
+ <createCity name="z94" x="94" y="2" radius="2" color="black"/>
+ <createCity name="z15" x="15" y="2" radius="2" color="black"/>
+ <createCity name="z78" x="78" y="2" radius="2" color="black"/>
+ <createCity name="z12" x="12" y="2" radius="2" color="black"/>
+ <createCity name="z34" x="34" y="2" radius="2" color="black"/>
+ <createCity name="z57" x="57" y="2" radius="2" color="black"/>
+ <createCity name="z53" x="53" y="2" radius="2" color="black"/>
+ <createCity name="z84" x="84" y="2" radius="2" color="black"/>
+ <createCity name="z25" x="25" y="2" radius="2" color="black"/>
+ <createCity name="z18" x="18" y="2" radius="2" color="black"/>
+ <createCity name="z69" x="69" y="2" radius="2" color="black"/>
+ <createCity name="z35" x="35" y="2" radius="2" color="black"/>
+ <createCity name="z80" x="80" y="2" radius="2" color="black"/>
+ <createCity name="z59" x="59" y="2" radius="2" color="black"/>
+ <createCity name="z11" x="11" y="2" radius="2" color="black"/>
+ <createCity name="z07" x="07" y="2" radius="2" color="black"/>
+ <createCity name="z29" x="29" y="2" radius="2" color="black"/>
+ <createCity name="z36" x="36" y="2" radius="2" color="black"/>
+ <createCity name="z81" x="81" y="2" radius="2" color="black"/>
+ <createCity name="z52" x="52" y="2" radius="2" color="black"/>
+ <createCity name="z66" x="66" y="2" radius="2" color="black"/>
+ <createCity name="z71" x="71" y="2" radius="2" color="black"/>
+ <createCity name="z83" x="83" y="2" radius="2" color="black"/>
+ <createCity name="z56" x="56" y="2" radius="2" color="black"/>
+ <createCity name="z82" x="82" y="2" radius="2" color="black"/>
+ <createCity name="z95" x="95" y="2" radius="2" color="black"/>
+ <createCity name="z75" x="75" y="2" radius="2" color="black"/>
+ <createCity name="z62" x="62" y="2" radius="2" color="black"/>
+ <createCity name="z24" x="24" y="2" radius="2" color="black"/>
+ <createCity name="z20" x="20" y="2" radius="2" color="black"/>
+ <createCity name="z41" x="41" y="2" radius="2" color="black"/>
+ <createCity name="z88" x="88" y="2" radius="2" color="black"/>
+ <createCity name="z93" x="93" y="2" radius="2" color="black"/>
+ <createCity name="z31" x="31" y="2" radius="2" color="black"/>
+ <createCity name="z98" x="98" y="2" radius="2" color="black"/>
+ <createCity name="z49" x="49" y="2" radius="2" color="black"/>
+ <createCity name="z48" x="48" y="2" radius="2" color="black"/> 
+ <printBinarySearchTree/>
+ <printSGTree/>
+ </commands>

@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x21"/>
+      <x value="21"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x64"/>
+      <x value="64"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x06"/>
+      <x value="06"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x60"/>
+      <x value="60"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x90"/>
+      <x value="90"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x08"/>
+      <x value="08"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x22"/>
+      <x value="22"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x63"/>
+      <x value="63"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x19"/>
+      <x value="19"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x16"/>
+      <x value="16"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x02"/>
+      <x value="02"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x96"/>
+      <x value="96"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x09"/>
+      <x value="09"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x87"/>
+      <x value="87"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x89"/>
+      <x value="89"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x58"/>
+      <x value="58"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x23"/>
+      <x value="23"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x55"/>
+      <x value="55"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x65"/>
+      <x value="65"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x97"/>
+      <x value="97"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x03"/>
+      <x value="03"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x30"/>
+      <x value="30"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x40"/>
+      <x value="40"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x79"/>
+      <x value="79"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x77"/>
+      <x value="77"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x39"/>
+      <x value="39"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x47"/>
+      <x value="47"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x46"/>
+      <x value="46"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x14"/>
+      <x value="14"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x42"/>
+      <x value="42"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x05"/>
+      <x value="05"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x86"/>
+      <x value="86"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x27"/>
+      <x value="27"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x67"/>
+      <x value="67"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x28"/>
+      <x value="28"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x61"/>
+      <x value="61"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x91"/>
+      <x value="91"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x72"/>
+      <x value="72"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x74"/>
+      <x value="74"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x51"/>
+      <x value="51"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x37"/>
+      <x value="37"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x01"/>
+      <x value="01"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x00"/>
+      <x value="00"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x32"/>
+      <x value="32"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x33"/>
+      <x value="33"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x04"/>
+      <x value="04"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x68"/>
+      <x value="68"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x44"/>
+      <x value="44"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x73"/>
+      <x value="73"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x17"/>
+      <x value="17"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x85"/>
+      <x value="85"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x76"/>
+      <x value="76"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x10"/>
+      <x value="10"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x92"/>
+      <x value="92"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x70"/>
+      <x value="70"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x26"/>
+      <x value="26"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x50"/>
+      <x value="50"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x13"/>
+      <x value="13"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x43"/>
+      <x value="43"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x38"/>
+      <x value="38"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x99"/>
+      <x value="99"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x45"/>
+      <x value="45"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x54"/>
+      <x value="54"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x94"/>
+      <x value="94"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x15"/>
+      <x value="15"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x78"/>
+      <x value="78"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x12"/>
+      <x value="12"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x34"/>
+      <x value="34"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x57"/>
+      <x value="57"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x53"/>
+      <x value="53"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x84"/>
+      <x value="84"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x25"/>
+      <x value="25"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x18"/>
+      <x value="18"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x69"/>
+      <x value="69"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x35"/>
+      <x value="35"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x80"/>
+      <x value="80"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x59"/>
+      <x value="59"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x11"/>
+      <x value="11"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x07"/>
+      <x value="07"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x29"/>
+      <x value="29"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x36"/>
+      <x value="36"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x81"/>
+      <x value="81"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x52"/>
+      <x value="52"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x66"/>
+      <x value="66"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x71"/>
+      <x value="71"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x83"/>
+      <x value="83"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x56"/>
+      <x value="56"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x82"/>
+      <x value="82"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x95"/>
+      <x value="95"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x75"/>
+      <x value="75"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x62"/>
+      <x value="62"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x24"/>
+      <x value="24"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x20"/>
+      <x value="20"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x41"/>
+      <x value="41"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x88"/>
+      <x value="88"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x93"/>
+      <x value="93"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x31"/>
+      <x value="31"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x98"/>
+      <x value="98"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x49"/>
+      <x value="49"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="x48"/>
+      <x value="48"/>
+      <y value="0"/>
+      <radius value="0"/>
+      <color value="black"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="printBinarySearchTree"/>
+    <parameters/>
+    <output>
+      <binarysearchtree>
+        <node name="x21" x="21" y="0">
+          <node name="x06" x="6" y="0">
+            <node name="x02" x="2" y="0">
+              <node name="x01" x="1" y="0">
+                <node name="x00" x="0" y="0"/>
+              </node>
+              <node name="x03" x="3" y="0">
+                <node name="x05" x="5" y="0">
+                  <node name="x04" x="4" y="0"/>
+                </node>
+              </node>
+            </node>
+            <node name="x08" x="8" y="0">
+              <node name="x07" x="7" y="0"/>
+              <node name="x19" x="19" y="0">
+                <node name="x16" x="16" y="0">
+                  <node name="x09" x="9" y="0">
+                    <node name="x14" x="14" y="0">
+                      <node name="x10" x="10" y="0">
+                        <node name="x13" x="13" y="0">
+                          <node name="x12" x="12" y="0">
+                            <node name="x11" x="11" y="0"/>
+                          </node>
+                        </node>
+                      </node>
+                      <node name="x15" x="15" y="0"/>
+                    </node>
+                  </node>
+                  <node name="x17" x="17" y="0">
+                    <node name="x18" x="18" y="0"/>
+                  </node>
+                </node>
+                <node name="x20" x="20" y="0"/>
+              </node>
+            </node>
+          </node>
+          <node name="x64" x="64" y="0">
+            <node name="x60" x="60" y="0">
+              <node name="x22" x="22" y="0">
+                <node name="x58" x="58" y="0">
+                  <node name="x23" x="23" y="0">
+                    <node name="x55" x="55" y="0">
+                      <node name="x30" x="30" y="0">
+                        <node name="x27" x="27" y="0">
+                          <node name="x26" x="26" y="0">
+                            <node name="x25" x="25" y="0">
+                              <node name="x24" x="24" y="0"/>
+                            </node>
+                          </node>
+                          <node name="x28" x="28" y="0">
+                            <node name="x29" x="29" y="0"/>
+                          </node>
+                        </node>
+                        <node name="x40" x="40" y="0">
+                          <node name="x39" x="39" y="0">
+                            <node name="x37" x="37" y="0">
+                              <node name="x32" x="32" y="0">
+                                <node name="x31" x="31" y="0"/>
+                                <node name="x33" x="33" y="0">
+                                  <node name="x34" x="34" y="0">
+                                    <node name="x35" x="35" y="0">
+                                      <node name="x36" x="36" y="0"/>
+                                    </node>
+                                  </node>
+                                </node>
+                              </node>
+                              <node name="x38" x="38" y="0"/>
+                            </node>
+                          </node>
+                          <node name="x47" x="47" y="0">
+                            <node name="x46" x="46" y="0">
+                              <node name="x42" x="42" y="0">
+                                <node name="x41" x="41" y="0"/>
+                                <node name="x44" x="44" y="0">
+                                  <node name="x43" x="43" y="0"/>
+                                  <node name="x45" x="45" y="0"/>
+                                </node>
+                              </node>
+                            </node>
+                            <node name="x51" x="51" y="0">
+                              <node name="x50" x="50" y="0">
+                                <node name="x49" x="49" y="0">
+                                  <node name="x48" x="48" y="0"/>
+                                </node>
+                              </node>
+                              <node name="x54" x="54" y="0">
+                                <node name="x53" x="53" y="0">
+                                  <node name="x52" x="52" y="0"/>
+                                </node>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                      <node name="x57" x="57" y="0">
+                        <node name="x56" x="56" y="0"/>
+                      </node>
+                    </node>
+                  </node>
+                  <node name="x59" x="59" y="0"/>
+                </node>
+              </node>
+              <node name="x63" x="63" y="0">
+                <node name="x61" x="61" y="0">
+                  <node name="x62" x="62" y="0"/>
+                </node>
+              </node>
+            </node>
+            <node name="x90" x="90" y="0">
+              <node name="x87" x="87" y="0">
+                <node name="x65" x="65" y="0">
+                  <node name="x79" x="79" y="0">
+                    <node name="x77" x="77" y="0">
+                      <node name="x67" x="67" y="0">
+                        <node name="x66" x="66" y="0"/>
+                        <node name="x72" x="72" y="0">
+                          <node name="x68" x="68" y="0">
+                            <node name="x70" x="70" y="0">
+                              <node name="x69" x="69" y="0"/>
+                              <node name="x71" x="71" y="0"/>
+                            </node>
+                          </node>
+                          <node name="x74" x="74" y="0">
+                            <node name="x73" x="73" y="0"/>
+                            <node name="x76" x="76" y="0">
+                              <node name="x75" x="75" y="0"/>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                      <node name="x78" x="78" y="0"/>
+                    </node>
+                    <node name="x86" x="86" y="0">
+                      <node name="x85" x="85" y="0">
+                        <node name="x84" x="84" y="0">
+                          <node name="x80" x="80" y="0">
+                            <node name="x81" x="81" y="0">
+                              <node name="x83" x="83" y="0">
+                                <node name="x82" x="82" y="0"/>
+                              </node>
+                            </node>
+                          </node>
+                        </node>
+                      </node>
+                    </node>
+                  </node>
+                </node>
+                <node name="x89" x="89" y="0">
+                  <node name="x88" x="88" y="0"/>
+                </node>
+              </node>
+              <node name="x96" x="96" y="0">
+                <node name="x91" x="91" y="0">
+                  <node name="x92" x="92" y="0">
+                    <node name="x94" x="94" y="0">
+                      <node name="x93" x="93" y="0"/>
+                      <node name="x95" x="95" y="0"/>
+                    </node>
+                  </node>
+                </node>
+                <node name="x97" x="97" y="0">
+                  <node name="x99" x="99" y="0">
+                    <node name="x98" x="98" y="0"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </binarysearchtree>
+    </output>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="x55" x="55" y="0">
+          <internal name="x19" x="19" y="0">
+            <internal name="x08" x="8" y="0">
+              <internal name="x03" x="3" y="0">
+                <internal name="x02" x="2" y="0">
+                  <internal name="x01" x="1" y="0">
+                    <internal name="x00" x="0" y="0">
+                      <external name="x00" x="0" y="0"/>
+                      <external name="x01" x="1" y="0"/>
+                    </internal>
+                    <external name="x02" x="2" y="0"/>
+                  </internal>
+                  <external name="x03" x="3" y="0"/>
+                </internal>
+                <internal name="x06" x="6" y="0">
+                  <internal name="x05" x="5" y="0">
+                    <internal name="x04" x="4" y="0">
+                      <external name="x04" x="4" y="0"/>
+                      <external name="x05" x="5" y="0"/>
+                    </internal>
+                    <external name="x06" x="6" y="0"/>
+                  </internal>
+                  <internal name="x07" x="7" y="0">
+                    <external name="x07" x="7" y="0"/>
+                    <external name="x08" x="8" y="0"/>
+                  </internal>
+                </internal>
+              </internal>
+              <internal name="x16" x="16" y="0">
+                <internal name="x09" x="9" y="0">
+                  <external name="x09" x="9" y="0"/>
+                  <internal name="x14" x="14" y="0">
+                    <internal name="x10" x="10" y="0">
+                      <external name="x10" x="10" y="0"/>
+                      <internal name="x13" x="13" y="0">
+                        <internal name="x12" x="12" y="0">
+                          <internal name="x11" x="11" y="0">
+                            <external name="x11" x="11" y="0"/>
+                            <external name="x12" x="12" y="0"/>
+                          </internal>
+                          <external name="x13" x="13" y="0"/>
+                        </internal>
+                        <external name="x14" x="14" y="0"/>
+                      </internal>
+                    </internal>
+                    <internal name="x15" x="15" y="0">
+                      <external name="x15" x="15" y="0"/>
+                      <external name="x16" x="16" y="0"/>
+                    </internal>
+                  </internal>
+                </internal>
+                <internal name="x17" x="17" y="0">
+                  <external name="x17" x="17" y="0"/>
+                  <internal name="x18" x="18" y="0">
+                    <external name="x18" x="18" y="0"/>
+                    <external name="x19" x="19" y="0"/>
+                  </internal>
+                </internal>
+              </internal>
+            </internal>
+            <internal name="x38" x="38" y="0">
+              <internal name="x28" x="28" y="0">
+                <internal name="x25" x="25" y="0">
+                  <internal name="x22" x="22" y="0">
+                    <internal name="x21" x="21" y="0">
+                      <internal name="x20" x="20" y="0">
+                        <external name="x20" x="20" y="0"/>
+                        <external name="x21" x="21" y="0"/>
+                      </internal>
+                      <external name="x22" x="22" y="0"/>
+                    </internal>
+                    <internal name="x23" x="23" y="0">
+                      <external name="x23" x="23" y="0"/>
+                      <internal name="x24" x="24" y="0">
+                        <external name="x24" x="24" y="0"/>
+                        <external name="x25" x="25" y="0"/>
+                      </internal>
+                    </internal>
+                  </internal>
+                  <internal name="x27" x="27" y="0">
+                    <internal name="x26" x="26" y="0">
+                      <external name="x26" x="26" y="0"/>
+                      <external name="x27" x="27" y="0"/>
+                    </internal>
+                    <external name="x28" x="28" y="0"/>
+                  </internal>
+                </internal>
+                <internal name="x34" x="34" y="0">
+                  <internal name="x32" x="32" y="0">
+                    <internal name="x30" x="30" y="0">
+                      <internal name="x29" x="29" y="0">
+                        <external name="x29" x="29" y="0"/>
+                        <external name="x30" x="30" y="0"/>
+                      </internal>
+                      <internal name="x31" x="31" y="0">
+                        <external name="x31" x="31" y="0"/>
+                        <external name="x32" x="32" y="0"/>
+                      </internal>
+                    </internal>
+                    <internal name="x33" x="33" y="0">
+                      <external name="x33" x="33" y="0"/>
+                      <external name="x34" x="34" y="0"/>
+                    </internal>
+                  </internal>
+                  <internal name="x37" x="37" y="0">
+                    <internal name="x35" x="35" y="0">
+                      <external name="x35" x="35" y="0"/>
+                      <internal name="x36" x="36" y="0">
+                        <external name="x36" x="36" y="0"/>
+                        <external name="x37" x="37" y="0"/>
+                      </internal>
+                    </internal>
+                    <external name="x38" x="38" y="0"/>
+                  </internal>
+                </internal>
+              </internal>
+              <internal name="x46" x="46" y="0">
+                <internal name="x43" x="43" y="0">
+                  <internal name="x40" x="40" y="0">
+                    <internal name="x39" x="39" y="0">
+                      <external name="x39" x="39" y="0"/>
+                      <external name="x40" x="40" y="0"/>
+                    </internal>
+                    <internal name="x42" x="42" y="0">
+                      <internal name="x41" x="41" y="0">
+                        <external name="x41" x="41" y="0"/>
+                        <external name="x42" x="42" y="0"/>
+                      </internal>
+                      <external name="x43" x="43" y="0"/>
+                    </internal>
+                  </internal>
+                  <internal name="x45" x="45" y="0">
+                    <internal name="x44" x="44" y="0">
+                      <external name="x44" x="44" y="0"/>
+                      <external name="x45" x="45" y="0"/>
+                    </internal>
+                    <external name="x46" x="46" y="0"/>
+                  </internal>
+                </internal>
+                <internal name="x51" x="51" y="0">
+                  <internal name="x50" x="50" y="0">
+                    <internal name="x47" x="47" y="0">
+                      <external name="x47" x="47" y="0"/>
+                      <internal name="x49" x="49" y="0">
+                        <internal name="x48" x="48" y="0">
+                          <external name="x48" x="48" y="0"/>
+                          <external name="x49" x="49" y="0"/>
+                        </internal>
+                        <external name="x50" x="50" y="0"/>
+                      </internal>
+                    </internal>
+                    <external name="x51" x="51" y="0"/>
+                  </internal>
+                  <internal name="x54" x="54" y="0">
+                    <internal name="x53" x="53" y="0">
+                      <internal name="x52" x="52" y="0">
+                        <external name="x52" x="52" y="0"/>
+                        <external name="x53" x="53" y="0"/>
+                      </internal>
+                      <external name="x54" x="54" y="0"/>
+                    </internal>
+                    <external name="x55" x="55" y="0"/>
+                  </internal>
+                </internal>
+              </internal>
+            </internal>
+          </internal>
+          <internal name="x77" x="77" y="0">
+            <internal name="x63" x="63" y="0">
+              <internal name="x60" x="60" y="0">
+                <internal name="x58" x="58" y="0">
+                  <internal name="x57" x="57" y="0">
+                    <internal name="x56" x="56" y="0">
+                      <external name="x56" x="56" y="0"/>
+                      <external name="x57" x="57" y="0"/>
+                    </internal>
+                    <external name="x58" x="58" y="0"/>
+                  </internal>
+                  <internal name="x59" x="59" y="0">
+                    <external name="x59" x="59" y="0"/>
+                    <external name="x60" x="60" y="0"/>
+                  </internal>
+                </internal>
+                <internal name="x61" x="61" y="0">
+                  <external name="x61" x="61" y="0"/>
+                  <internal name="x62" x="62" y="0">
+                    <external name="x62" x="62" y="0"/>
+                    <external name="x63" x="63" y="0"/>
+                  </internal>
+                </internal>
+              </internal>
+              <internal name="x65" x="65" y="0">
+                <internal name="x64" x="64" y="0">
+                  <external name="x64" x="64" y="0"/>
+                  <external name="x65" x="65" y="0"/>
+                </internal>
+                <internal name="x67" x="67" y="0">
+                  <internal name="x66" x="66" y="0">
+                    <external name="x66" x="66" y="0"/>
+                    <external name="x67" x="67" y="0"/>
+                  </internal>
+                  <internal name="x72" x="72" y="0">
+                    <internal name="x68" x="68" y="0">
+                      <external name="x68" x="68" y="0"/>
+                      <internal name="x70" x="70" y="0">
+                        <internal name="x69" x="69" y="0">
+                          <external name="x69" x="69" y="0"/>
+                          <external name="x70" x="70" y="0"/>
+                        </internal>
+                        <internal name="x71" x="71" y="0">
+                          <external name="x71" x="71" y="0"/>
+                          <external name="x72" x="72" y="0"/>
+                        </internal>
+                      </internal>
+                    </internal>
+                    <internal name="x74" x="74" y="0">
+                      <internal name="x73" x="73" y="0">
+                        <external name="x73" x="73" y="0"/>
+                        <external name="x74" x="74" y="0"/>
+                      </internal>
+                      <internal name="x76" x="76" y="0">
+                        <internal name="x75" x="75" y="0">
+                          <external name="x75" x="75" y="0"/>
+                          <external name="x76" x="76" y="0"/>
+                        </internal>
+                        <external name="x77" x="77" y="0"/>
+                      </internal>
+                    </internal>
+                  </internal>
+                </internal>
+              </internal>
+            </internal>
+            <internal name="x89" x="89" y="0">
+              <internal name="x83" x="83" y="0">
+                <internal name="x80" x="80" y="0">
+                  <internal name="x79" x="79" y="0">
+                    <internal name="x78" x="78" y="0">
+                      <external name="x78" x="78" y="0"/>
+                      <external name="x79" x="79" y="0"/>
+                    </internal>
+                    <external name="x80" x="80" y="0"/>
+                  </internal>
+                  <internal name="x81" x="81" y="0">
+                    <external name="x81" x="81" y="0"/>
+                    <internal name="x82" x="82" y="0">
+                      <external name="x82" x="82" y="0"/>
+                      <external name="x83" x="83" y="0"/>
+                    </internal>
+                  </internal>
+                </internal>
+                <internal name="x86" x="86" y="0">
+                  <internal name="x85" x="85" y="0">
+                    <internal name="x84" x="84" y="0">
+                      <external name="x84" x="84" y="0"/>
+                      <external name="x85" x="85" y="0"/>
+                    </internal>
+                    <external name="x86" x="86" y="0"/>
+                  </internal>
+                  <internal name="x87" x="87" y="0">
+                    <external name="x87" x="87" y="0"/>
+                    <internal name="x88" x="88" y="0">
+                      <external name="x88" x="88" y="0"/>
+                      <external name="x89" x="89" y="0"/>
+                    </internal>
+                  </internal>
+                </internal>
+              </internal>
+              <internal name="x96" x="96" y="0">
+                <internal name="x90" x="90" y="0">
+                  <external name="x90" x="90" y="0"/>
+                  <internal name="x91" x="91" y="0">
+                    <external name="x91" x="91" y="0"/>
+                    <internal name="x92" x="92" y="0">
+                      <external name="x92" x="92" y="0"/>
+                      <internal name="x94" x="94" y="0">
+                        <internal name="x93" x="93" y="0">
+                          <external name="x93" x="93" y="0"/>
+                          <external name="x94" x="94" y="0"/>
+                        </internal>
+                        <internal name="x95" x="95" y="0">
+                          <external name="x95" x="95" y="0"/>
+                          <external name="x96" x="96" y="0"/>
+                        </internal>
+                      </internal>
+                    </internal>
+                  </internal>
+                </internal>
+                <internal name="x97" x="97" y="0">
+                  <external name="x97" x="97" y="0"/>
+                  <internal name="x98" x="98" y="0">
+                    <external name="x98" x="98" y="0"/>
+                    <external name="x99" x="99" y="0"/>
+                  </internal>
+                </internal>
+              </internal>
+            </internal>
+          </internal>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+</results>

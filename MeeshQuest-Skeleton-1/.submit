@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC 420
+#  Project 1: Part 1
+
+courseName=CMSC 420
+semester=201908
+projectNumber=1
+courseKey=a60d361af5c7e2c4
+authentication.type=cas
+baseURL=https://submit.cs.umd.edu:443/fall2019
+submitURL=https://submit.cs.umd.edu:443/fall2019/eclipse/SubmitProjectViaEclipse

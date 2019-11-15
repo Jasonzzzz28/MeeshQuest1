@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Baltimore"/>
+      <x value="76"/>
+      <y value="39"/>
+      <radius value="10"/>
+      <color value="green"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="createCity"/>
+    <parameters>
+      <name value="Chicago"/>
+      <x value="87"/>
+      <y value="41"/>
+      <radius value="15"/>
+      <color value="blue"/>
+    </parameters>
+    <output/>
+  </success>
+  <success>
+    <command name="printBinarySearchTree"/>
+    <parameters/>
+    <output>
+      <binarysearchtree>
+        <node name="Baltimore" x="76" y="39">
+          <node name="Chicago" x="87" y="41"/>
+        </node>
+      </binarysearchtree>
+    </output>
+  </success>
+  <success>
+    <command name="printSGTree"/>
+    <parameters/>
+    <output>
+      <SGTree>
+        <internal name="Baltimore" x="76" y="39">
+          <external name="Baltimore" x="76" y="39"/>
+          <external name="Chicago" x="87" y="41"/>
+        </internal>
+      </SGTree>
+    </output>
+  </success>
+</results>

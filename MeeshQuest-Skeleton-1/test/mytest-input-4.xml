@@ -1,0 +1,22 @@
+<commands
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="part1in.xsd"
+	spatialWidth="1024" spatialHeight="1024">
+ <printSGTree/>
+ <createCity name="x06" x="6" y="0" radius="0" color="black"/>
+ <createCity name="x10" x="10" y="0" radius="0" color="black"/>
+ <createCity name="x12" x="12" y="0" radius="0" color="black"/>
+ <createCity name="x16" x="16" y="0" radius="0" color="black"/>
+ <printSGTree/>
+ <createCity name="x18" x="18" y="0" radius="0" color="black"/>
+ <printSGTree/>
+ <createCity name="x20" x="20" y="0" radius="0" color="black"/>
+ <createCity name="x04" x="4" y="0" radius="0" color="black"/>
+ <createCity name="x14" x="14" y="0" radius="0" color="black"/>
+ <createCity name="x02" x="2" y="0" radius="0" color="black"/>
+ <createCity name="x08" x="8" y="0" radius="0" color="black"/>
+ <printSGTree/>
+ <createCity name="x00" x="0" y="0" radius="0" color="black"/>
+ <printSGTree/>
+ <printBinarySearchTree/>
+ </commands>
