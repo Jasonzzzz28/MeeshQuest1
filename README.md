@@ -64,7 +64,8 @@ There are no parameters.
 
 # Sample Input/Output: 
 ## Here is a sample input:
-'''xml <commands
+```
+<commands
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="part1in.xsd"
  	spatialWidth="512"
@@ -76,8 +77,8 @@ There are no parameters.
  <createCity name="Miami" x="80" y="25" radius="5"  color="black"/>
  <printBinarySearchTree/>
  <printSGTree/>
-</commands> '''
-
+</commands> 
+```
 
 ## The resulting sample output:
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
